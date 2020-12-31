@@ -1,4 +1,4 @@
-![Star Wars](bb8.gif)
+![Dino](dino.gif)
 
 <!--
 **medicm/medicm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
