@@ -2,8 +2,6 @@
 
 ![Dino](dino.gif)
 
-[![medicm's GitHub Stats](https://github-readme-stats.vercel.app/api?username=medicm&show_icons=true&theme=graywhite&count_private=true)](https://github.com/medicm)
-
 
 **📫  Reach me at:**
 
